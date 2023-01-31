@@ -3,6 +3,9 @@
 A much more detailed and updated [Architectural
 Roadmap](/contributors/design-proposals/architecture/architectural-roadmap.md) is also available.
 
+
+![](https://d33wubrfki0l68.cloudfront.net/518e18713c865fe67a5f23fc64260806d72b38f5/61d75/images/docs/post-ccm-arch.png)
+
 ## Overview
 
 Kubernetes is a production-grade, open-source infrastructure for the deployment, scaling,
